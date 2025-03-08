@@ -41,3 +41,4 @@ Este proyecto fue desarrollado como parte de una actividad académica en la **Un
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Puedes modificarlo y compartirlo libremente.
+
